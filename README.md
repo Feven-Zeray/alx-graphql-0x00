@@ -126,10 +126,10 @@ alx-graphql-0x02/
 
 ## Developer Information
 
-- **Name:** Dereje Masresha
-- **Email:** derejemasresha27@gmail.com
+- **Name:** Feven Zeray
+- **Email:** fevenzeray2028@gmail.com
 - **Role:** Full-Stack Developer
 - **Skills:** React, Next.js, TypeScript, Tailwind CSS, Apollo Client, GraphQL, Node.js
-- **GitHub:** [https://github.com/Deremas](https://github.com/Deremas)
+- **GitHub:** [https://github.com/Feven-Zeray](https://github.com/Feven-Zeray)
 
 ---
