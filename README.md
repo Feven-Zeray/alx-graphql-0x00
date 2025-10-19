@@ -126,7 +126,7 @@ alx-graphql-0x02/
 
 ## Developer Information
 
-- **Name:** Feven Zeray
+- **Name:**Feven Zeray
 - **Email:** fevenzeray2028@gmail.com
 - **Role:** Full-Stack Developer
 - **Skills:** React, Next.js, TypeScript, Tailwind CSS, Apollo Client, GraphQL, Node.js
