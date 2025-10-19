@@ -1,1 +1,20 @@
-{"data":{"character":{"id":"1","name":"Rick Sanchez","status":"Alive","species":"Human","type":"","gender":"Male"}}}
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "9",
+          "name": "Agency Director",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/9.jpeg"
+        },
+        {
+          "id": "10",
+          "name": "Alan Rails",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/10.jpeg"
+        }
+      ]
+    }
+  }
+}

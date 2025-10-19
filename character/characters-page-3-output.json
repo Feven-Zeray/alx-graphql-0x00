@@ -1,1 +1,20 @@
-{"data":{"character":{"id":"1","name":"Rick Sanchez","status":"Alive","species":"Human","type":"","gender":"Male"}}}
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "7",
+          "name": "Abradolf Lincler",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/7.jpeg"
+        },
+        {
+          "id": "8",
+          "name": "Adjudicator Rick",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/8.jpeg"
+        }
+      ]
+    }
+  }
+}
